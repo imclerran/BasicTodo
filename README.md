@@ -5,7 +5,7 @@ A simple Windows XP-era to-do list app built with .NET Framework 3.5 and Windows
 - Add, check off, and delete tasks
 - Completed and pending items separated into groups
 - Persistent storage (`todos.txt`) in `%APPDATA%\BasicTodo`
-- Markdown **Export** and **Import** (with duplicate-check and status preservation)
+- Import from and export to Markdown (with duplicate-check and status preservation)
 
 ---
 
